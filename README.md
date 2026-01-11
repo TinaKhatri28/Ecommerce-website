@@ -4,7 +4,7 @@ A full-stack **E-Commerce web application** built using the **MERN stack (MongoD
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **User Authentication** – Sign up, login, and secure access.
 - **Product Management** – View products with details, images, and prices.
@@ -16,7 +16,7 @@ A full-stack **E-Commerce web application** built using the **MERN stack (MongoD
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 **Frontend:** React.js, HTML, CSS, JavaScript  
 **Backend:** Node.js, Express.js  
